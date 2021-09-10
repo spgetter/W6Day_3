@@ -1,0 +1,36 @@
+body {
+    background-image: linear-gradient(to right, goldenrod , rgb(4, 37, 6));
+  }
+
+.page_heading{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    color:mediumblue;
+    text-shadow: 2px 2px 2px black;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#submitButton{
+    color: blueviolet;
+    background-color: darkgoldenrod;
+    border: 2px solid darkgray;
+    border-radius: 15%;
+}
+
+#testDataForm{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    color:white;
+    margin-left: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.tableHead{
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+}

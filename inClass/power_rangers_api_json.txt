@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "color": "Red",
+    "name": "Jason",
+    "power-coin": "Tyrannosaurus",
+    "season": "MMPR"
+  },
+  {
+    "id": 2,
+    "color": "Yello",
+    "name": "Trini",
+    "power-coin": "Saber-Toothed Tiger",
+    "season": "MMPR"
+  },
+  {
+    "id": 3,
+    "color": "Blue",
+    "name": "Billy",
+    "power-coin": "Triceratops",
+    "season": "MMPR"
+  },
+  {
+    "id": 4,
+    "color": "Black",
+    "name": "Zack",
+    "power-coin": "Mastodan",
+    "season": "MMPR"
+  },
+  {
+    "id": 5,
+    "color": "Pink",
+    "name": "Kimberly",
+    "power-coin": "Pterodactyl",
+    "season": "MMPR"
+  },
+  {
+    "id": 6,
+    "color": "White",
+    "name": "Tommy",
+    "power-coin": "TigerZord",
+    "season": "MMPR"
+  },
+  {
+    "id": 7,
+    "color": "Green",
+    "name": "Tommy",
+    "morp-coin": "Dragonzord",
+    "season": "MMPR"
+  }
+]
