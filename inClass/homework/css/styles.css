@@ -34,3 +34,20 @@ body {
     background-color: black;
     border: 1px solid black;
 }
+
+.standings-list{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.standings_list_name{
+    color: blue;
+    background-color: black;
+    border: 1px solid black;
+}
+.standings_list_item{
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+}
